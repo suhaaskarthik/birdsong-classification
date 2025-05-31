@@ -1,4 +1,4 @@
-# birdsong-classification
+# Birdsong-Classification
 Classifies 184 different bird calls!!
 
 This repository consists of two files, one of which classifies audio through simple mel-coefficients and averaging through the timestamps (reaching accuracies of mere 3-4%). The architecture used here is just a normal sequential model. Whereas the other consists of an upgraded version
